@@ -10,7 +10,6 @@ Read on to learn about how people use code to communicate with computers and dev
 
 [Computer science org](https://www.computerscience.org/resources/what-is-coding-used-for/#:~:text=Coding%20tells%20a%20machine%20which,humans%20accurately%20communicate%20with%20machines.)
 
-
 ## what I learned from today's lecture.
 
 1. Difference between GUI and CLI
@@ -41,5 +40,6 @@ p = git push origin main
 
 ![Ltuc logo](https://th.bing.com/th/id/OIP.o-ICcxBTZeyCtfhNJbjDTgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
-*Tasneem Hassasneh*
+*Tasneem* *Hassasneh*
+
 ---
