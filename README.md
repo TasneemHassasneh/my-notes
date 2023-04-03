@@ -2,6 +2,8 @@
 
 ## class 01
 
+Tasneem Hassasneh , I graduated from the Hashemite University,major of  Business Information Technology
+
 "Electronic devices like cell phones, laptops, and tablets require code to function properly. Coding allows humans to communicate with these devices. Modern technology such as traffic lights, calculators, smart TVs, and cars use internal coding systems.
 
 Since computers do not communicate like humans, coding acts as a translator. Code converts human input into numerical sequences that computers understand. Once computers receive these messages, they complete assigned tasks such as changing font colors or centering an image.
