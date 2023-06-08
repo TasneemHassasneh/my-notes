@@ -1,4 +1,8 @@
-# my-notes
+# Reading Notes
+
+**This Repo where I can keep track of my observations and questions from the reading assignments throughout my course.**
+
+## 1. prep-course
 
 ## class 01
 
@@ -28,9 +32,7 @@ Read on to learn about how people use code to communicate with computers and dev
 
 - Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by **John Gruber** in 2004, Markdown is now one of the world’s most popular markup languages.
 
----
-
-> ACP shourtcut
+> ACP shortcut
 
 ```java
 A = git add
@@ -40,8 +42,24 @@ p = git push origin main
 
 ---
 
-![Ltuc logo](https://th.bing.com/th/id/OIP.o-ICcxBTZeyCtfhNJbjDTgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
-*Tasneem* *Hassasneh*
+## 2. Code 201 - Foundations of Software Development
+
+```Add your nots here```
 
 ---
+
+## 3. Code 301 - Intermediate Software Development
+
+```Add your nots here```
+
+---
+## 4. Code 401 - Advanced Software Development
+
+```Add your nots here```
+
+---
+
+![Ltuc logo](https://th.bing.com/th/id/OIP.o-ICcxBTZeyCtfhNJbjDTgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
+***Tasneem Hassasneh***
