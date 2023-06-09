@@ -9,3 +9,7 @@ Collaboration and knowledge-sharing are also facilitated by a **growth mindset**
 Furthermore, *full stack development* projects often involve working on large-scale applications with extended timelines. **Grit** is crucial in managing long-term projects, as it enables developers to stay focused, motivated, and committed to delivering results. It helps them navigate through setbacks and obstacles along the way.
 
 In summary, a **growth mindset** and **grit** are both important for a *full stack developer*. A **growth mindset** promotes continuous learning, adaptability, and collaboration, while **grit** helps developers persevere through challenges and maintain focus on long-term goals. By embodying both traits, *full stack developers* can thrive in their careers and deliver high-quality solutions in the dynamic field of *full stack development*.
+
+## Measuring Emotional Intelligence
+
+![Measuring Emotional Intelligence](Emotional-Intelligence.png)

@@ -45,7 +45,6 @@ p = git push origin main
 ## Things I want to know more about
 
 ```Add your nots here```
-
 ---
 
 
