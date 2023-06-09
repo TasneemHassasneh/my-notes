@@ -42,6 +42,12 @@ p = git push origin main
 
 ---
 
+## Things I want to know more about
+
+```Add your nots here```
+
+---
+
 
 ## 2. Code 201 - Foundations of Software Development
 
@@ -59,6 +65,7 @@ p = git push origin main
 ```Add your nots here```
 
 ---
+
 
 ![Ltuc logo](https://th.bing.com/th/id/OIP.o-ICcxBTZeyCtfhNJbjDTgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
