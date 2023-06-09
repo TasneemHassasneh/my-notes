@@ -1,5 +1,7 @@
 # The Growth Mindset
 
+[Home](/README.md)
+
 A ***growth mindset*** is essential for a *full stack developer* as it enables continuous learning, adaptability, resilience, collaboration, and personal development. It allows developers to stay open to new ideas, embrace challenges, and persist in the face of setbacks. *Full stack development* requires a wide range of technical skills and the ability to handle complex problems, making a **growth mindset** crucial for exploring new possibilities and finding creative solutions.
 
 Collaboration and knowledge-sharing are also facilitated by a **growth mindset**, allowing developers to value feedback, learn from others, and contribute to the collective knowledge of their team. Furthermore, adopting a **growth mindset** supports the ongoing improvement of technical and non-technical skills, which are necessary for success in the ever-evolving field of *full stack development*.
