@@ -4,13 +4,6 @@
 
 [prep-course](/prep-course.md)
 
-[The Growth Mindset](/growthmindset.md)
-
-[Express](/Express.md)
-
-[Node Ecosystem](/Node-Ecosystem.md)
-
-
 ---
 
 ## 1. Code 201 - Foundations of Software Development
@@ -26,8 +19,13 @@
 ---
 ## 3. Code 401 - Advanced Software Development
 
-```Add your nots here```
+### Week # 01
 
+[The Growth Mindset](/growthmindset.md)
+
+[Express](/Express.md)
+
+[Node Ecosystem](/Node-Ecosystem.md)
 ---
 
 #### ***Things I want to know more about:***
