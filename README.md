@@ -6,6 +6,11 @@
 
 [The Growth Mindset](/growthmindset.md)
 
+[Express](/Express.md)
+
+[Node Ecosystem](/Node-Ecosystem.md)
+
+
 ---
 
 ## 1. Code 201 - Foundations of Software Development
@@ -27,7 +32,9 @@
 
 #### ***Things I want to know more about:***
 
-```Add your nots here```
+```
+Add your nots here
+```
 
 ---
 
