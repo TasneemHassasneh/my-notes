@@ -12,6 +12,10 @@ Furthermore, *full stack development* projects often involve working on large-sc
 
 In summary, a **growth mindset** and **grit** are both important for a *full stack developer*. A **growth mindset** promotes continuous learning, adaptability, and collaboration, while **grit** helps developers persevere through challenges and maintain focus on long-term goals. By embodying both traits, *full stack developers* can thrive in their careers and deliver high-quality solutions in the dynamic field of *full stack development*.
 
-## Measuring Emotional Intelligence
+---
 
-![Measuring Emotional Intelligence](Emotional-Intelligence.png)
+#### ***Things I want to know more about:***
+
+```  
+Add your nots here
+```
