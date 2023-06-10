@@ -2,8 +2,6 @@
 
 **This Repo where I can keep track of my observations and questions from the reading assignments throughout my course.**
 
-Table of Contents for this course:
-
 [prep-course](/prep-course.md)
 
 [The Growth Mindset](/growthmindset.md)
