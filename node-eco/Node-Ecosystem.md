@@ -2,7 +2,7 @@
 
 ![node](/reading-notes/node.png)
 
-[Home](/reading-notes/README.md)
+[Home](https://tasneemhassasneh.github.io/reading-notes/)
 
 ## 1. How would you describe Node to a non-technical friend ?
 

@@ -2,7 +2,7 @@
 
 ![express](/reading-notes/js.jpg)
 
-[Home](/reading-notes/README.md)
+[Home](https://tasneemhassasneh.github.io/reading-notes/)
 
 ## Express
 
