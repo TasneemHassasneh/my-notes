@@ -1,6 +1,6 @@
 # Express, NPM, TDD, CI/CD.
 
-![express](/reading-notes/express/js.jpg)
+![express](/reading-notes/js.jpg)
 
 [Home](/reading-notes/README.md)
 

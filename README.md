@@ -25,9 +25,9 @@
 
 | # |     Description                                                      | 
 |---|:--------------------------------------------------------------------:|
-| 1 | [The Growth Mindset](/reading-notes/growth-mindset/growthmindset.md) |
-| 2 | [Express](/reading-notes/express/Express.md)                         | 
-| 2 | [Node Ecosystem](/reading-notes/node-ecosystem/Node-Ecosystem.md)    |   
+| 1 | [The Growth Mindset](/reading-notes/growthmindset.md) |
+| 2 | [Express](/reading-notes/Express.md)                         | 
+| 2 | [Node Ecosystem](/reading-notes/Node-Ecosystem.md)    |   
 
 ---
 

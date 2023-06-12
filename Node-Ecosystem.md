@@ -1,6 +1,6 @@
 # Node Ecosystem
 
-![node](/reading-notes/node-ecosystem/node.png)
+![node](/reading-notes/node.png)
 
 [Home](/reading-notes/README.md)
 
