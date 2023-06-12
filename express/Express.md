@@ -2,7 +2,7 @@
 
 ![express](/reading-notes/express/js.jpg)
 
-[Home](/README.md)
+[Home](/reading-notes/README.md)
 
 ## Express
 

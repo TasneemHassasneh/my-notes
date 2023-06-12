@@ -2,7 +2,7 @@
 
 ![node](/reading-notes/node-ecosystem/node.png)
 
-[Home](/README.md)
+[Home](/reading-notes/README.md)
 
 ## 1. How would you describe Node to a non-technical friend ?
 
