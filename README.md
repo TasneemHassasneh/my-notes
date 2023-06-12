@@ -1,6 +1,6 @@
 # Reading Notes
 
-![prep-course](/notes.jpg)
+![notes](/reading-notes/notes.jpg)
 
 **This Repo where I can keep track of my observations and questions from the reading assignments throughout my course.**
 
