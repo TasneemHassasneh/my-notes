@@ -2,8 +2,6 @@
 
 ![node](/reading-notes/node.png)
 
-[Home](https://tasneemhassasneh.github.io/reading-notes/)
-
 ## 1. How would you describe Node to a non-technical friend ?
 
 ***Node.js*** is a technology that allows computers to run JavaScript, the language primarily used for building websites and web applications, outside of a web browser. It's like a special engine that understands and executes JavaScript code directly on the computer.
