@@ -2,8 +2,6 @@
 
 ![express](/reading-notes/js.jpg)
 
-[Home](https://tasneemhassasneh.github.io/reading-notes/)
-
 ## Express
 
 ### 1. Explain middleware:
