@@ -1,5 +1,7 @@
 # Reading Notes
 
+![prep-course](/notes.jpg)
+
 **This Repo where I can keep track of my observations and questions from the reading assignments throughout my course.**
 
 [prep-course](/prep-course.md)
@@ -21,11 +23,11 @@
 
 ### Week # 01
 
-[The Growth Mindset](/growthmindset.md)
-
-[Express](/Express.md)
-
-[Node Ecosystem](/Node-Ecosystem.md)
+| # |     Description                                                      | 
+|---|:--------------------------------------------------------------------:|
+| 1 | [The Growth Mindset](/reading-notes/growth-mindset/growthmindset.md) |
+| 2 | [Express](/reading-notes/express/Express.md)                         | 
+| 2 | [Node Ecosystem](/reading-notes/node-ecosystem/Node-Ecosystem.md)    |   
 
 ---
 
@@ -36,5 +38,4 @@ Add your nots here
 ```
 
 ---
-
-![LTUC logo](https://th.bing.com/th/id/OIP.o-ICcxBTZeyCtfhNJbjDTgHaHa?w=160&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7) ***Tasneem Hassasneh***
+***Tasneem Hassasneh***

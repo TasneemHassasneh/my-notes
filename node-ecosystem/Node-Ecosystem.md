@@ -1,5 +1,7 @@
 # Node Ecosystem
 
+![node](/reading-notes/node-ecosystem/node.png)
+
 [Home](/README.md)
 
 ## 1. How would you describe Node to a non-technical friend ?

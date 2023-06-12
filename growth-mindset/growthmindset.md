@@ -1,4 +1,5 @@
 # The Growth Mindset
+![growth mindset](/reading-notes//growth-mindset//growthmindset.jpg)
 
 [Home](/README.md)
 
