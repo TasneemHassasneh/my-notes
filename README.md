@@ -25,7 +25,7 @@
 
 | # |     Description                                                                           | 
 |---|:-----------------------------------------------------------------------------------------:|
-| 1 | [The Growth Mindset](https://tasneemhassasneh.github.io/reading-notes/growthmindset.html) |
+| 1 | [The Growth Mindset](/reading-notes/growthmindset/grwothmindset.md) |
 | 2 | [Express](https://tasneemhassasneh.github.io/reading-notes/Express.html)                  | 
 | 3 | [Node Ecosystem](https://tasneemhassasneh.github.io/reading-notes/Node-Ecosystem.html)    |   
 | 4 | [data structure](https://tasneemhassasneh.github.io/reading-notes/ds.html)                |   
