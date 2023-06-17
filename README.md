@@ -23,21 +23,13 @@
 
 ### Week # 01
 
-| # |     Description                                                                           | 
-|---|:-----------------------------------------------------------------------------------------:|
-| 1 | [The Growth Mindset](/reading-notes/growthmindset/grwothmindset.md) |
-| 2 | [Express](https://tasneemhassasneh.github.io/reading-notes/Express.html)                  | 
-| 3 | [Node Ecosystem](https://tasneemhassasneh.github.io/reading-notes/Node-Ecosystem.html)    |   
-| 4 | [data structure](https://tasneemhassasneh.github.io/reading-notes/ds.html)                |   
-
-
----
-
-#### ***Things I want to know more about:***
-
-```
-Add your nots here
-```
+| # |     Description                                |
+|---|:----------------------------------------------:|
+| 1 | [The Growth Mindset](./grothmindset/README.md) |
+| 2 | [Express](./express/README.md)                 |
+| 3 | [Node Ecosystem](./node-eco/README.md)         |
+| 4 | [data structure](./Data-structure/README.md)   |
+| 4 | [data modling](./Data-Modeling/README.md)   |
 
 ---
 ***Tasneem Hassasneh***
