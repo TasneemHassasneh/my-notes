@@ -75,7 +75,7 @@ Before designing a relational database, it is helpful to create a **schema** of 
 
 * while the foreign key maintains the integrity and enforce the relationship between tables.
 
-![sql nosql](./sql.jpg)
+![sql nosql](https://i.ytimg.com/vi/oA4IdQFQS1Y/maxresdefault.jpg)
 
 **In SQL syntax, keywords and parameters are treated differently.**
 
