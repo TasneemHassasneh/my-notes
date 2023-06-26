@@ -29,8 +29,9 @@
 | 2 | [Express](./express/README.md)                 |
 | 3 | [Node Ecosystem](./node-eco/README.md)         |
 | 4 | [data structure](./Data-structure/README.md)   |
-| 4 | [data modling](./Data-Modeling/README.md)      |
-| 4 | [Authentications](./Authentication/README.md)  |
+| 5 | [data modling](./Data-Modeling/README.md)      |
+| 6 | [Authentications](./Authentication/README.md)  |
+| 7 | [Bearer Authorization](./Bearer-Authorization/README.md)  |
 
 ---
 ***Tasneem Hassasneh***
