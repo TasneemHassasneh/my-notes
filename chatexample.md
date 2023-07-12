@@ -1,4 +1,3 @@
-Sure! Here's the information formatted in Markdown language:
 
 **Explain to a non-technical recruiter what the Chat Example (above) does:**
 
