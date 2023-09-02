@@ -4,17 +4,7 @@
 
 **This Repo where I can keep track of my observations and questions from the reading assignments throughout my course.**
 
-[prep-course](/prep-course.md)
 
----
-
-## 1. Code 201 - Foundations of Software Development
-
-[prep-course](./prep-course/README.md)
-
----
-
-## 2. Code 301 - Intermediate Software Development
 
 | # |     Description                                |
 |:---:|:----------------------------------------------|
@@ -31,10 +21,14 @@
 | 11 | [Access Control (ACL)](./Access-Control-(ACL)/README.md) |
 | 12 | [chat example](./chatexample/README.md) |
 | 13 | [AWS: S3 and Lambda](./AWS-S3-and-Lambda/README.md)
-| 14 |[AWS : Events](./AWS-Events/README.md)
+| 14 |[AWS : Events](./AWS-Events/README.md)|
+| 15 |[useState hook](./useStateHook/README.md)|
+| 16 |[Context API](./Context-API/README.md)|
+| 17|[Component Based UI](./componentBasedUI/README.md)|
+| 18|[useEffect](./useEffect/README.md)|
+| 19|[useReducer](./reducer/README.md)|
 
----
-## 3. Code 401 - Advanced Software Development
+
 
 ---
 ***Tasneem Hassasneh***
