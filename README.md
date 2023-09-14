@@ -30,8 +30,8 @@
 | 20|[Graph](./Graph/README.md)|
 | 21|[RABC](./RABC/README.md)|
 | 22|[rev-auth](./rev-auth/README.md)|
-
-
+| 23|[redux](./redux/README.md)|
+|24|[Redux - Combined Reducers](./Redux%20-%20Combined%20Reducers/README.md)|
 
 ---
 ***Tasneem Hassasneh***
